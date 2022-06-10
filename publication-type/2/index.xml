@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://md-mohaiminul.github.io/publication-type/2/</link>
+      <atom:link href="https://md-mohaiminul.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://md-mohaiminul.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://md-mohaiminul.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>COVID-DenseNet: a deep learning architecture to detect COVID-19 from chest radiology images</title>
+      <link>https://md-mohaiminul.github.io/publication/islam-2022-covid/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/islam-2022-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long movie clip classification with state-space video models</title>
+      <link>https://md-mohaiminul.github.io/publication/islam-2022-long/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/islam-2022-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eMED-DNA: An in silico operating system for clinical medical data storage within the human genome</title>
+      <link>https://md-mohaiminul.github.io/publication/jakaria-2019-emed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/jakaria-2019-emed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
