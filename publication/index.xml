@@ -14,9 +14,9 @@
     
     <item>
       <title>Long Movie Clip Classification with State-Space Video Models</title>
-      <link>https://md-mohaiminul.github.io/publication/1example/</link>
+      <link>https://md-mohaiminul.github.io/publication/vis4mer/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://md-mohaiminul.github.io/publication/1example/</guid>
+      <guid>https://md-mohaiminul.github.io/publication/vis4mer/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,10 +35,33 @@
     </item>
     
     <item>
+      <title>Object State Change Classification in Egocentric Videos using the Divided Space-Time Attention Mechanism</title>
+      <link>https://md-mohaiminul.github.io/publication/tarheels/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/tarheels/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>COVID-DenseNet: A Deep Learning Architecture to Detect COVID-19 from Chest Radiology Images</title>
-      <link>https://md-mohaiminul.github.io/publication/2covid_densenet/</link>
+      <link>https://md-mohaiminul.github.io/publication/covid_densenet/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://md-mohaiminul.github.io/publication/2covid_densenet/</guid>
+      <guid>https://md-mohaiminul.github.io/publication/covid_densenet/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -59,9 +82,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Internal Abnormalities’ Detection of Human Body Analyzing Skin Images Using Convolutional Neural Network</title>
-      <link>https://md-mohaiminul.github.io/publication/3internal/</link>
+      <link>https://md-mohaiminul.github.io/publication/internal/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://md-mohaiminul.github.io/publication/3internal/</guid>
+      <guid>https://md-mohaiminul.github.io/publication/internal/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -82,9 +105,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>eMED-DNA: An in silico operating system for clinical medical data storage within the human genome</title>
-      <link>https://md-mohaiminul.github.io/publication/4emed_dna/</link>
+      <link>https://md-mohaiminul.github.io/publication/emed_dna/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://md-mohaiminul.github.io/publication/4emed_dna/</guid>
+      <guid>https://md-mohaiminul.github.io/publication/emed_dna/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
