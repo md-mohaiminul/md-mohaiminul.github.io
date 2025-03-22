@@ -5,7 +5,7 @@
     <link>https://md-mohaiminul.github.io/publication-type/1/</link>
       <atom:link href="https://md-mohaiminul.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Mar 2025 00:00:01 +0000</lastBuildDate>
     <image>
       <url>https://md-mohaiminul.github.io/media/icon_hufbcfcced37777334206e3a36c1cc04c2_42701_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,9 +13,55 @@
     </image>
     
     <item>
+      <title>BIMBA: Selective-Scan Compression for Long-Range Video Question Answering</title>
+      <link>https://md-mohaiminul.github.io/publication/bimba/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:01 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/bimba/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos</title>
+      <link>https://md-mohaiminul.github.io/publication/revisionllm/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/revisionllm/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Video ReCap: Recursive Captioning of Hour-Long Videos</title>
       <link>https://md-mohaiminul.github.io/publication/videorecap/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jun 2024 00:00:01 +0000</pubDate>
       <guid>https://md-mohaiminul.github.io/publication/videorecap/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,8 +84,54 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives</title>
       <link>https://md-mohaiminul.github.io/publication/ego-exo4d/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://md-mohaiminul.github.io/publication/ego-exo4d/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos</title>
+      <link>https://md-mohaiminul.github.io/publication/rgnet/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/rgnet/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Simple LLM Framework for Long-Range Video Question-Answering</title>
+      <link>https://md-mohaiminul.github.io/publication/llovi/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://md-mohaiminul.github.io/publication/llovi/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -61,7 +153,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Efficient Movie Scene Detection using State-Space Transformers</title>
       <link>https://md-mohaiminul.github.io/publication/trans4mer/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://md-mohaiminul.github.io/publication/trans4mer/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -84,7 +176,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <item>
       <title>Long Movie Clip Classification with State-Space Video Models</title>
       <link>https://md-mohaiminul.github.io/publication/vis4mer/</link>
-      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://md-mohaiminul.github.io/publication/vis4mer/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
